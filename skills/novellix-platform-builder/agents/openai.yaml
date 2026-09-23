@@ -1,0 +1,8 @@
+interface:
+  display_name: "Novellix Platform Builder"
+  short_description: "Build multi-platform products from Novellix"
+  brand_color: "#001F3F"
+  default_prompt: "Use $novellix-platform-builder to build a short-drama platform with a distinct brand palette."
+
+policy:
+  allow_implicit_invocation: true

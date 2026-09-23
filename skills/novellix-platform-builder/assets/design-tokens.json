@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "name": "Product Name",
+    "theme": "editorial-content",
+    "headlineFont": "Noto Serif",
+    "bodyFont": "Work Sans"
+  },
+  "color": {
+    "light": {
+      "primary": "#000613",
+      "primaryContainer": "#001F3F",
+      "onPrimary": "#FFFFFF",
+      "onPrimaryContainer": "#D4E3FF",
+      "secondary": "#735C00",
+      "secondaryContainer": "#FED65B",
+      "onSecondary": "#FFFFFF",
+      "onSecondaryContainer": "#241A00",
+      "tertiary": "#391303",
+      "onTertiary": "#FFFFFF",
+      "background": "#FBF9F5",
+      "surface": "#FBF9F5",
+      "surfaceContainerLow": "#F5F3EF",
+      "surfaceContainer": "#EFEEEA",
+      "surfaceContainerHigh": "#EAE8E4",
+      "surfaceContainerHighest": "#E4E2DE",
+      "surfaceContainerLowest": "#FFFFFF",
+      "onBackground": "#1B1C1A",
+      "onSurface": "#1B1C1A",
+      "onSurfaceVariant": "#43474E",
+      "outline": "#74777F",
+      "outlineVariant": "#C4C6CF",
+      "error": "#BA1A1A",
+      "onError": "#FFFFFF",
+      "errorContainer": "#FFDAD6",
+      "onErrorContainer": "#93000A"
+    },
+    "dark": {
+      "primary": "#AFC8F0",
+      "primaryContainer": "#001F3F",
+      "onPrimary": "#002D5C",
+      "onPrimaryContainer": "#D4E3FF",
+      "secondary": "#E9C349",
+      "secondaryContainer": "#574500",
+      "onSecondary": "#3D2E00",
+      "onSecondaryContainer": "#FFE088",
+      "tertiary": "#FDB69A",
+      "onTertiary": "#5A2714",
+      "background": "#131412",
+      "surface": "#131412",
+      "surfaceContainerLow": "#1B1C1A",
+      "surfaceContainer": "#201F1D",
+      "surfaceContainerHigh": "#2A2A27",
+      "surfaceContainerHighest": "#353532",
+      "surfaceContainerLowest": "#0E0F0D",
+      "onBackground": "#E4E2DE",
+      "onSurface": "#E4E2DE",
+      "onSurfaceVariant": "#C4C6CF",
+      "outline": "#8E9099",
+      "outlineVariant": "#43474E",
+      "error": "#FFB4AB",
+      "onError": "#690004",
+      "errorContainer": "#93000A",
+      "onErrorContainer": "#FFDAD6"
+    },
+    "overlay": {
+      "mediaScrim": "rgba(0, 6, 19, 0.72)",
+      "glassLight": "rgba(255, 255, 255, 0.80)",
+      "glassDark": "rgba(0, 6, 19, 0.80)",
+      "shadow": "rgba(27, 28, 26, 0.08)"
+    },
+    "chart": ["#001F3F", "#735C00", "#E6B66F", "#64748B", "#2F7D67", "#9C3D54"]
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 20,
+    "2xl": 24,
+    "3xl": 32,
+    "4xl": 40,
+    "5xl": 48,
+    "6xl": 64
+  },
+  "radius": {
+    "sm": 4,
+    "md": 8,
+    "lg": 12,
+    "xl": 16,
+    "2xl": 20,
+    "3xl": 24,
+    "full": 9999
+  },
+  "motion": {
+    "fast": 150,
+    "normal": 220,
+    "slow": 400
+  }
+}
